@@ -34,6 +34,7 @@ RestTemplate (OMDB API)
 
 🔹 1. Clone the Repository
 git clone https://github.com/your-username/movieapi.git
+
 cd movieapi
 
 🔹 2. Configure MySQL Database
